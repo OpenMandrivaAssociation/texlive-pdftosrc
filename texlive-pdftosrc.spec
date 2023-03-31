@@ -1,6 +1,6 @@
 Name:		texlive-pdftosrc
 Version:	62387
-Release:	1
+Release:	2
 Summary:	Extract source file or stream from PDF file
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdftosrc
