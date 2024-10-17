@@ -3,7 +3,7 @@ Version:	62387
 Release:	2
 Summary:	Extract source file or stream from PDF file
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdftosrc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdftosrc
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdftosrc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdftosrc.doc.r%{version}.tar.xz
